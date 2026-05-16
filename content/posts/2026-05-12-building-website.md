@@ -4,7 +4,6 @@ date: "2026-05-12"
 tags: [essay]
 excerpt: "For years I kept notes in scattered places — paper, Notion, the back of receipts. This site is the experiment in pulling them into one quiet room."
 readTime: "8 min"
-featured: true
 ---
 
 For years I kept notes in scattered places — paper, Notion, the back of receipts. This site is the experiment in pulling them into one quiet room. Not for an audience, exactly. More like a workshop where the door happens to be open.

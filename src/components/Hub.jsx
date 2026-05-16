@@ -13,14 +13,14 @@ export default function Hub({ showDivider = true }) {
           )}
         </svg>
 
-        <a className="hub-half left" href="#thoughts">
+        <Link className="hub-half left" to="/thoughts">
           <span className="num">01 / WRITE</span>
           Thoughts<span className="arrow">→</span>
-        </a>
-        <a className="hub-half right" href="#projects">
+        </Link>
+        <Link className="hub-half right" to="/projects">
           <span className="num">02 / BUILD</span>
           Projects<span className="arrow">→</span>
-        </a>
+        </Link>
 
         <Link className="hub-photo" to="/gallery" aria-label="View photo gallery">
           <ImageSlot

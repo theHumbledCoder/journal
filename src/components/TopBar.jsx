@@ -16,10 +16,10 @@ export default function TopBar() {
     <header className={`topbar${scrolled ? ' scrolled' : ''}`}>
       <Link to="/" className="brand">Suhas Bharadwaj</Link>
       <nav>
-        <a href="#thoughts" className="hide-mobile">Thoughts</a>
-        <a href="#projects" className="hide-mobile">Projects</a>
-        <a href="#gallery" className="hide-mobile">Photos</a>
-        <a href="#about" className="hide-mobile">About</a>
+        <Link to="/thoughts" className="hide-mobile">Thoughts</Link>
+        <Link to="/projects" className="hide-mobile">Projects</Link>
+        <Link to="/gallery" className="hide-mobile">Photos</Link>
+        <Link to="/about" className="hide-mobile">About</Link>
         <button className="theme-toggle" onClick={toggle} aria-label="Toggle dark mode" />
       </nav>
     </header>

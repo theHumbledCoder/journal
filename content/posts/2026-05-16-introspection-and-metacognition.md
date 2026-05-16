@@ -5,6 +5,7 @@ tags: [essay]
 excerpt: "On the limits and leverage of thinking about your own thinking."
 readTime: "6 min"
 author: "Suhas"
+featured: true
 ---
 
 *On the limits and leverage of thinking about your own thinking*
