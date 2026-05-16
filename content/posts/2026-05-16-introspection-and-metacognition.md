@@ -1,8 +1,13 @@
-# The Observer Who Gets Observed
+---
+title: "The Observer Who Gets Observed"
+date: "2026-05-16"
+tags: [essay]
+excerpt: "On the limits and leverage of thinking about your own thinking."
+readTime: "6 min"
+author: "Suhas"
+---
 
 *On the limits and leverage of thinking about your own thinking*
-
----
 
 There is a particular kind of trap that people with analytical minds fall into: they turn their sharpest tool on themselves and expect it to work the same way it works on everything else.
 

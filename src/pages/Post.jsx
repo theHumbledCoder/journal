@@ -29,6 +29,7 @@ export default function Post({ type = 'post' }) {
           {tags.map(tag => (
             <span key={tag} className="post-tag">{tag}</span>
           ))}
+          {entry.author && <span>{entry.author}</span>}
           {entry.date && <span>{formatDate(entry.date)}</span>}
           {entry.readTime && <span>{entry.readTime} read</span>}
         </div>
