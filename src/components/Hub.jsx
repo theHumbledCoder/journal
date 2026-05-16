@@ -40,7 +40,7 @@ export default function Hub({ showDivider = true }) {
 
       <p className="hub-tagline">
         <span className="name">Suhas Bharadwaj</span>
-        {' '}— exploring the universe, one token at a time. Writing, building, occasionally pausing to introspect (or is it the other way round!?).
+        {' '}— exploring the universe, one token at a time. Writing, building, occasionally pausing to introspect (or is it the other way round!?)
       </p>
     </section>
   )

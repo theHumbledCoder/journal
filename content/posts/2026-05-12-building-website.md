@@ -32,6 +32,6 @@ GitHub Actions handles the rest.
 
 ## What I'm hoping to learn
 
-Web design and layout. The difference between a typographically good page and a mediocre one. How deployment actually works — not the abstracted version, but the real thing.
+Web design and layout. The difference between a typographically good page and a mediocre one. How deployment actually works for a site like this — not the abstracted version, but the real thing.
 
 This site is the textbook.
