@@ -3,7 +3,7 @@ title: "The Observer Who Gets Observed"
 date: "2026-05-16"
 tags: [essay]
 excerpt: "On the limits and leverage of thinking about your own thinking."
-readTime: "6 min"
+readTime: "10 min"
 author: "Suhas"
 featured: true
 ---
